@@ -1,6 +1,5 @@
 <div dir="rtl">
-  
-#  چیست؟Session hijacking
 
+# مقدمه 
 
 </div>
